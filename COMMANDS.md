@@ -29,4 +29,4 @@
 # Open the file kamehameha/dragon-ball-jokes.md using the VI command line text editor
 +  cd ..  vi dragon-ball-jokes.md/
 # Update the file kamehameha/dragon-ball-jokes.md by removing the first joke you read on the file, finally save and close the text editor
-+  nano dragon-ball-jokes.md 
++  nano dragon-ball-jokes.md / delete / cntrl+x
